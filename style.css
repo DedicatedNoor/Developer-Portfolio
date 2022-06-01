@@ -7,7 +7,7 @@ h1 {
     font-size: 50px;
 }
 
-.Orange-Color {
+.orange-color {
     color: orange;
 }
 
@@ -35,4 +35,8 @@ section {
 .top-background {
     background-image: url(images/top-background.png);
     background-repeat: no-repeat;
+}
+
+.Big-Dream {
+    background-position: right;
 }
